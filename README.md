@@ -1,7 +1,7 @@
 # Premier-PyLeague-
 Performance analyses of Premier League players.
 
-Pundits regularly comment football/soccer games without a solid ground in statistics. They talk about players going through "a rough patch" or "dry streak", with little attention to the span and regularity of such processes. It is also rarely discussed which parameters actually correlate best with perfomance and how this changes over time. As a lifelong United fan, I'm interested in explaining what exactly went wrong after SAF retired in 2013. The work shared on this platform is an attempt to tackle these two issues. 
+Pundits regularly comment football/soccer games without a solid ground in statistics. They talk about players going through "a rough patch" or "dry streak", with little attention to the span and regularity of such processes. It is also rarely discussed which parameters actually correlate best with perfomance and how this changes over time. As a lifelong United fan, I'm interested in explaining what exactly went wrong after SAF retired in 2013. The work shared on this platform is an attempt to tackle these two issues.
 
 To begin with, I decided to look solely at defenders of the "top six" sides. The code shared here is flexible, inasmuch different teams and playing positions can be incorporated into the pipeline. I plan to do more of this myself, time permitting. I'm sharing an infographic summarizing the results obtained so far (you can check out the .pdf file if that's all you are interested in), but also the two scripts used to scrape the data and generate the figures:
 
@@ -12,3 +12,5 @@ To begin with, I decided to look solely at defenders of the "top six" sides. The
 - the figures in the infographic were generated using this script. I've tried to structure it well, but feel free to let me know if something could be improved. You can use the code to look at other teams, such as CFC, AFC and TH, which did not make the infographic for the most part. When I add other analyses and upgrade the scipt, I may even write a GUI.
 
 I'm also on the lookout for better data. I'd be curious to look at perfromance parameters across individual games. If such data is available to you & you wouldn't mind sharing it, feel free to contact me.
+
+
