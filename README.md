@@ -1,4 +1,4 @@
-# Premier-PyLeague-
+# Premier-PyLeague
 Performance analyses of Premier League players.
 
 Pundits regularly comment football/soccer games without a solid ground in statistics. They talk about players going through "a rough patch" or "dry streak", with little attention to the span and regularity of such processes. It is also rarely discussed which parameters actually correlate best with perfomance and how this changes over time. As a lifelong United fan, I'm interested in explaining what exactly went wrong after SAF retired in 2013. The work shared on this platform is an attempt to tackle these two issues.
